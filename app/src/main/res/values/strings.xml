@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homeworkbeforefinal</string>
+    <string name="id">USERNAME</string>
+    <string name="pass">PASSWORD</string>
+    <string name="login">Login</string>
+    <string name="load">LOAD DATA</string>
+    <string name="show">SHOW DATA</string>
+    <string name="blank"></string>
+    <string name="idd">ID</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="edit">Edit Data</string>
+</resources>
