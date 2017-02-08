@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                         if(jObject.getString("username").equals(edt_ID.getText().toString())&&jObject.getString("password").equals(edt_Pass.getText().toString())){
                             Toast.makeText(MainActivity.this, "Welcome "+jObject.getString("full_name"), Toast.LENGTH_SHORT).show();
                             Intent myIntent = new Intent(MainActivity.this,Main2Activity.class);
-                            startActivity(myIntent);
+                            startActivity(myIntent);//
                         }
                         else
                             Toast.makeText(MainActivity.this, "Error Login", Toast.LENGTH_SHORT).show();
