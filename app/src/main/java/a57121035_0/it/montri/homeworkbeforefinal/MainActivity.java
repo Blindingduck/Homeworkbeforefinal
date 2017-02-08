@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         edt_ID = (EditText) findViewById(R.id.edtID);
         edt_Pass = (EditText) findViewById(R.id.edtPassword);
         btn_Login = (Button) findViewById(R.id.btnLogin);
+        //fghjkl;hgfghjklkjhgfx
 
         btn_Login.setOnClickListener(new View.OnClickListener() {
             @Override
